@@ -78,12 +78,12 @@
         </button>
         
         <div class="hidden md:flex items-center">
-          jehfwjhrjwh 
-          <!-- <img 
-            src="/placeholder.svg?height=32&width=32" 
+          
+          <img 
+            src="https://avatars.githubusercontent.com/u/159441246?v=4" 
             alt="User avatar" 
             class="w-8 h-8 rounded-full border-2 border-gray-200 dark:border-gray-700"
-          /> -->
+          />
         </div>
       </div>
     </div>
